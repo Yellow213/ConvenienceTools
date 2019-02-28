@@ -3,8 +3,8 @@ package com.dist.model;
 import java.io.Serializable;
 
 /**
- * @author dingchw
- * @date 2019/2/26.
+ * @author hh
+ * @date 2019/02/28
  */
 public class Coupon implements Serializable{
     private String coupontype;

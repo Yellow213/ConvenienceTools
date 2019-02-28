@@ -3,8 +3,8 @@ package com.dist.model;
 import java.io.Serializable;
 
 /**
- * @author ChiV3n
- * @date 2019/2/26.
+ * @author hh
+ * @date 2019/02/28
  */
 public class DonationProjectInfo implements Serializable{
     private String donationProjectId;
